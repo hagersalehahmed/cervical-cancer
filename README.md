@@ -1,5 +1,6 @@
 # cervical-cancer
 cervical-cancer 
+
 1. Scikit-learn is used to implemented  machine learning models and stacking models
    https://scikit-learn.org/stable/
 2.SMOTETomek is used to combine undersampling and oversampling to handle imbalanced data
